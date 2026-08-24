@@ -1,0 +1,12 @@
+O comando printf("\n\t\"Primeiro programa\""); utiliza três sequências de escape:
+
+\n → realiza uma quebra de linha;
+\t → insere uma tabulação horizontal;
+\" → permite imprimir aspas duplas na tela.
+
+Assim, o programa pula uma linha, insere uma tabulação e imprime a expressão "Primeiro programa" entre aspas.
+
+A saída do printf() será:
+
+
+    "Primeiro programa"

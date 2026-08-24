@@ -1,0 +1,3 @@
+a) Instruir o compilador a carregar as definições das funções da biblioteca padrão antes de compilar o código-fonte.
+
+disponibiliza as declarações e protótipos relacionados às funções de entrada e saída padrão, como printf() e scanf().

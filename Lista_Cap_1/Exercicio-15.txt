@@ -1,0 +1,7 @@
+c) Uma diretiva especial para o pré-processador C, executada antes da compilação.
+
+A diretiva:
+
+#include
+
+é processada antes da compilação propriamente dita e permite incluir o conteúdo de arquivos de cabeçalho no código-fonte.

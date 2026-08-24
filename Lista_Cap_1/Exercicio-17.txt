@@ -1,0 +1,37 @@
+Enunciado: Dentre as instruções de escrita abaixo, quais estão sintaticamente corretas? O que essas variações demonstram sobre a flexibilidade de espaçamento e formatação do compilador C?
+
+a)
+
+printf ( "Primeiro programa" );
+
+b)
+
+printf( "Primeiro programa" );
+
+c)
+
+printf("Primeiro programa");
+
+d)
+
+printf "Primeiro programa" ;
+
+Resposta:
+As alternativas A, B e C estão sintaticamente corretas.
+
+Todas produzem a mesma saída:
+
+Primeiro programa
+
+Isso demonstra que a linguagem C permite certa flexibilidade no uso de espaços em branco entre os elementos de uma instrução.
+
+A alternativa D está incorreta, pois uma função precisa ser chamada utilizando parênteses.
+
+O correto seria:
+
+printf("Primeiro programa");
+
+Portanto:
+
+Corretas: A, B e C.
+Incorreta: D.

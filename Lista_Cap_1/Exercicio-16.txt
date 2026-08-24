@@ -1,0 +1,11 @@
+A alternativa correta é:
+
+c) Pré-processador.
+
+As diretivas iniciadas por #, como:
+
+#include
+#define
+#ifdef
+
+são interpretadas pelo pré-processador antes da compilação do programa.

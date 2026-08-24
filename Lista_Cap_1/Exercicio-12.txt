@@ -1,0 +1,9 @@
+Instrução	Status	Justificativa
+int a;	Correto	Declara a variável a como inteira.
+float b;	Correto	Declara b como ponto flutuante de precisão simples.
+double float c;	Incorreto	double e float são tipos distintos e não podem ser combinados dessa maneira.
+unsigned char d;	Correto	Declara d como char sem sinal.
+unsigned e;	Correto	É equivalente a unsigned int e;.
+long float f;	Incorreto	O modificador long não pode ser utilizado com float.
+long g;	Correto	É equivalente a long int g;.
+long double h;	Correto	Declara uma variável de ponto flutuante com precisão estendida.

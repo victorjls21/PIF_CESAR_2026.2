@@ -1,0 +1,16 @@
+main()
+{
+    int a=1; b=2; c=3:
+    printf("Os números são: %d%d%d%d\n, a, b, c, d);
+    system("pause");
+}
+
+Erros:
+
+1- main sem tipo de retorno
+2- as variaveis foram declaradas de forma incorreta, ao inves do ; é pra utiliazar apenas a , 
+3- o printf não foi fechado corretamente, é ideal colocar as aspas apos o /n
+4- existem 4 opções para %d mas o código só apresenta 3 variaveis
+5- a variavel d não existe
+6- não adicionou a biblioteca
+7- 

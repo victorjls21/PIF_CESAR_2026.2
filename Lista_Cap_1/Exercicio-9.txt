@@ -1,0 +1,28 @@
+Na primeira instrução:
+
+printf("%c%c%cPrimeiro programa", '\n', '\t', '\"');
+
+cada %c imprime um caractere:
+
+'\n' → quebra de linha;
+'\t' → tabulação;
+'\"' → aspas duplas.
+
+Assim, a primeira instrução gera:
+
+
+    "Primeiro programa
+
+Os valores '\n', '\t' e '\"' são constantes de caractere e são interpretados pelo %c como caracteres individuais.
+
+Porém, há um problema na segunda instrução:
+
+printf("%c", "\"");
+
+"\"" está entre aspas duplas e, portanto, representa uma string, enquanto %c espera um único caractere.
+
+Para imprimir corretamente as aspas, deveria ser:
+
+printf("%c", '\"');
+
+Com essa correção, a saída pretendida seria:

@@ -1,5 +1,4 @@
-
-/* #include <stdio.h>   
+#include <stdio.h>   
 #include <stdlib.h>; /* Colocou ";" onde não precisava */
 int Main{} /* Em C precisa tomar cuidado com letra maiuscula e minuscula, o correto deveria ser "main"*/
 ( /* Além disso, trocou a ordem da utilização de chaves e dos parenteses para delimitar o bloco*/
@@ -7,9 +6,9 @@ printf( Existem %d semanas no ano.,52); /* o texto do printf não esta em aspas 
 cout << endl; /* isso é de C++, pode substituir por /n no printf*/
 system("PAUSE"); 
 return 0;
-) 
+)
 
-*/
+
 
 ===== VERSÃO CORRETA =====
 

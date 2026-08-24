@@ -1,0 +1,3 @@
+c) São arquivos de texto ASCII padrão contendo protótipos de funções, definições de constantes, macros e tipos.
+
+Os arquivos .h, chamados de arquivos de cabeçalho ou headers, contêm informações que podem ser utilizadas pelo programa.

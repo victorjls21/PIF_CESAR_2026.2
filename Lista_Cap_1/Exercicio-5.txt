@@ -1,0 +1,24 @@
+main()
+{
+    printf("Linguagem C");
+    system("pause");
+}
+
+
+ERROS:
+
+1- Não incluiu a biblioteca #include <stdio.h>
+2- A função main deve possuir um tipo de retorno, obrigatoriamente. ex: int main()
+3- Declarou o "system("pause");", mas esqueceu de adicionar a biblioteca #include <stdlib.h>
+4- Não finalizou dom o "return 0;"
+
+===== VERSÃO CORRETA =====
+
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Linguagem C");
+
+    return 0;
+} 

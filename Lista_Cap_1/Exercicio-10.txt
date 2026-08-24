@@ -1,0 +1,6 @@
+Resposta:
+A alternativa correta é:
+
+b) Verdadeiro.
+
+A linguagem C é case sensitive, ou seja, diferencia letras maiúsculas de minúsculas
