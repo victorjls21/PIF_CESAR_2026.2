@@ -1,4 +1,5 @@
 1-) C
+
 2-) #include <stdio.h>
 #include <stdlib.h>
 
@@ -12,6 +13,7 @@ int main()
 
     return 0;
 }
+
 
 3-)
 int a = 2, b = 4, c = 5, d = 10;
