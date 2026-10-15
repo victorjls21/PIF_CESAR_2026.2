@@ -1,14 +1,3 @@
-# Lista de Exercícios – Capítulo 3: Laços de Repetição
-
-**Disciplina:** Programação Imperativa e Funcional (PIF)  
-**Semestre:** 2026.2
-
-Este diretório contém as respostas da **Parte I (questões teóricas e analíticas)** no próprio README e, para a **Parte II**, um arquivo `.c` separado para cada questão prática.
-
----
-
-## Parte I – Questões Teóricas e Analíticas
-
 ### Questão 01 – Diferenças fundamentais e tempo de avaliação de laços
 
 #### a) Diferença entre `while` e `do-while`
